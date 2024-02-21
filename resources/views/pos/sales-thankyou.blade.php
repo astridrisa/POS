@@ -12,7 +12,5 @@
         <li>Jumlah: {{ $saleData['quantity'] }}</li>
         <li>Total Pembelian: {{ $saleData['total_amount'] }}</li>
     </ul>
-
-    <!-- Tambahkan elemen HTML atau informasi lain yang diperlukan -->
 </body>
 </html>

@@ -22,7 +22,6 @@
             <option value="pakaian-bayi">Pakaian Bayi</option>
             <option value="mainan-anak">Mainan Anak</option>
             <option value="susu-formula">Susu Formula</option>
-            <!-- Tambahkan produk lainnya sesuai kebutuhan -->
         </select>
 
         <label for="quantity">Jumlah:</label>
@@ -31,7 +30,6 @@
         <button type="submit">Proses Penjualan</button>
     </form>
 
-    <!-- Isi halaman penjualan disini -->
     <p>Silakan pilih produk dan masukkan jumlahnya untuk memulai transaksi.</p>
 </body>
 </html>
